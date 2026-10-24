@@ -1,0 +1,4 @@
+{
+  "jwtSecret": "ganti_dengan_random_string_panjang_minimal_32_char",
+  "apiKeys": ["isi_api_key_lu_di_sini"]
+}

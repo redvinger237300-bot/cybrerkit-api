@@ -1,0 +1,6 @@
+{
+  "users": [
+    { "id": "u1", "username": "admin", "password": "$2a$10$PLACEHOLDER_BCRYPT_HASH", "role": "admin" }
+  ],
+  "pairings": []
+}
